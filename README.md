@@ -27,5 +27,5 @@ for PyAudio<br>
 `pip install pipwin`<br>
 `pipwin install pyaudio`<br>
 
-## Referrence
+## Reference
 NeuralNine
