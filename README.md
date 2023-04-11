@@ -4,8 +4,8 @@
 Python 3.6.8rc1 - Dec. 11, 2018
 👉Windows x86-64 executable installer = https://www.python.org/ftp/python/3.6.8/python-3.6.8rc1-amd64.exe
 
-`pip install speechrecognition`
-`pip install pyttsx3`
+`pip install speechrecognition`<br>
+`pip install pyttsx3`<br>
 `pip install neuralintents`
     neuralintents contains most nessecary modules 
 
